@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pankaj kumar working as IT professional as Module lead at Sopra Steria. My responbsibility to enhance features of an Health Care Project (MFC, VB6, C#, Vuepress, PostgresSql, Python).
+- 👋 Hi, I’m Pankaj kumar working as IT professional as Technical lead at Sopra Steria. I am proficient in object oriented programming (C++, Python). Hands on experience on databases like PostgresSql, Sql server. 
 - 👀 I’m interested in C++, Data Structure, Algorithm, Python, Arduino (IOT)
 - 🌱 I’m currently learning Python, React, PostgresSql, AWS Lamda functions
 - 💞️ I’m looking to collaborate on IOT, Smart city projects, 
